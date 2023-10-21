@@ -1,10 +1,6 @@
-# Dockerized SSH Client
+# Dockerized Check IP
 
-Ref: https://man7.org/linux/man-pages/man1/ssh.1.html
-
-DockerHub: https://hub.docker.com/r/joestldr/checkip
-
-GitHub: https://github.com/joestldr/dockerized-checkip
+Just returning YOUR IP | NodeJS
 
 ## TLDR; Sample usage:
 
